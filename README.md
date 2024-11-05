@@ -50,21 +50,26 @@ This commands includes
 ![Screenshot 2024-11-05 093317](https://github.com/user-attachments/assets/ceea3cf3-9764-44a7-bf87-aaca1b3837a8)
 
 5. Nslookup
+
 ![Screenshot 2024-11-05 093337](https://github.com/user-attachments/assets/f4c6a799-3df7-4d2e-9f27-5aa833de5998)
 
 6. Arp
 ![Screenshot 2024-11-05 093125](https://github.com/user-attachments/assets/158b58f8-9d3c-4328-97c9-b76c8236daf9)
 
 7. Hostname
+
 ![Screenshot 2024-11-05 093205](https://github.com/user-attachments/assets/1d524120-2098-47f1-8e49-5eef4552b4e7)
 
 8. Nbtstat
+
 ![Screenshot 2024-11-05 093158](https://github.com/user-attachments/assets/f2d1d1c4-7888-48f5-bc0f-c8f4bc4169a6)
 
 9. Getmac
+
 ![Screenshot 2024-11-05 093214](https://github.com/user-attachments/assets/b55c5e8c-db4c-499d-b76d-827bd0999d7c)
 
 10. Tracert
+
 ![Screenshot 2024-11-05 093140](https://github.com/user-attachments/assets/7b03abc7-440c-4aed-97d8-1f091d0033f9)
 
 
